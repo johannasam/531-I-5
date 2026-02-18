@@ -132,4 +132,12 @@ FUNCTION ClassifyMoisture(raw, thresholds):
 * Python 3 with RPi.GPIO and spidev libraries  
 * Internet connection (setup phase only)
 
+
+
+
+
+  
+
+Generative AI was used to help organize and refine parts of the project, including improving clarity and formatting of the system description.
+
 ###
