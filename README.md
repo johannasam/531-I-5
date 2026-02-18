@@ -1,4 +1,7 @@
 # 531-I-5
+
+![img](.png)
+
 **ForgetMeNot: System Architecture**
 
 ForgetMeNot is a Raspberry Pi–based intelligent plant monitoring system that integrates LLM-generated watering parameters with real-time soil sensing and LED-based visual feedback. The system personalizes plant care by dynamically generating moisture thresholds per plant type and continuously evaluating live sensor data against these stored parameters.
