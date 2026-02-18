@@ -79,6 +79,7 @@ LED Status Mapping
 
 **Component: Pi Controller Service**: runs continuously on the Raspberry Pi.
 
+```
 SETUP:  
     Initialize ADC (MCP3008)  
     Initialize LED strip controller (GPIO)  
@@ -117,6 +118,7 @@ FUNCTION ClassifyMoisture(raw, thresholds):
         Return "almost time"  
     Else:  
         Return "needs water"
+```
 
 **System Requirements**
 
@@ -127,4 +129,4 @@ FUNCTION ClassifyMoisture(raw, thresholds):
 * Python 3 with RPi.GPIO and spidev libraries  
 * Internet connection (setup phase only)
 
-### 
+###
