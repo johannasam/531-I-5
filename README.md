@@ -1,6 +1,6 @@
 # 531-I-5
 
-![img](.png)
+![531_Systems_Diagram](531_Systems_Diagram.png)
 
 **ForgetMeNot: System Architecture**
 
